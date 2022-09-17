@@ -1,0 +1,34 @@
+# Exploratory-Data-Analysis-with-Python-Titanic-Dataset-
+
+
+AIM:
+
+To do Exploratory Data Analysis on the Titanic Data set to answer the following hypothesis on the surivival rate :
+
+HYPOTHESIS:
+
+1. Members in the cheapest passenger class are less likely to survive ,in comparison to othe classes
+2.More males ,in comparison to females, are less likely to survive
+
+
+
+METHODOLOGY:
+
+Obtained the dataset from The Titanic Challenge on Kaggle
+Python and Jupyter were used for this project
+Imported necessary libraries (pandas,numpy, seaborn,matplotlib, the Titanic CSV file)
+Data Cleaning (Removing , filling NaN , Removing columns an duplicates)
+Exploratory Data Analysis
+Visualization with Matplotlib and Seaborn
+
+
+
+
+CONCLUSIONS:
+
+
+1.More people overall were non-survivors
+2. Found that the passenger classes  had a correlation with fare prices
+3. The cheapest class (Passenger Class 3) had the least survivors in comparison to Passenger Class 1 & 2
+4. Analyzing sex, males were less likely to survive ,compared to females
+5. The Age Distribution normalised from ages 20- 35, meaning that these were the most common agesd that were on the Titanic
